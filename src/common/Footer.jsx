@@ -42,15 +42,15 @@ const Footer = () => {
                   </p>
                   <div className="contact-footer">
                     <img src={PhoneSvg} alt="phone_svg" />
-                    <Link to="tel:+1451356888">+1 451 356 888</Link>
+                    <Link to="tel:+263777224660">+263 777 224 660</Link>
                   </div>
                   <div className="contact-footer">
                     <img src={EmailSvg} alt="email_svg" />
-                    <Link to="mailto:biogi@mail.com">biogi@mail.com</Link>
+                    <Link to="mailto:o.masaraure@gmail.com">o.masaraure@gmail.com</Link>
                   </div>
                   <div className="contact-footer">
                     <img src={LocationSvg} alt="location_svg" />
-                    <p>121 Parkview St. California, USA</p>
+                    <p>Harare, Zimbabwe</p>
                   </div>
                 </div>
                 <div className="col-xxl-3 col-xl-3 col-lg-3">

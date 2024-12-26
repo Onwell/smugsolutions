@@ -3,7 +3,6 @@ import AOS from "aos";
 import NewsImg1 from "../../assets/images/news-img1.jpg";
 import NewsImg2 from "../../assets/images/news-img2.jpg";
 import NewsImg3 from "../../assets/images/news-img3.jpg";
-import TextMarqueSection from "../../common/TextMarqueSection";
 import { Link } from "react-router-dom";
 
 const SectionSeven = () => {
@@ -226,7 +225,6 @@ const SectionSeven = () => {
             </div>
           </div>
         </div>
-        <TextMarqueSection />
       </section>
       {/* <!-- ====================================== Section Seven End ===================================== --></img> */}
     </>

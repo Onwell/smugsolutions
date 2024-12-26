@@ -45,8 +45,8 @@ const SectionTwo = () => {
                 </div>
               </div>
               <h3 className="self-taught" data-aos="fade-up">
-                Hello! I’m <span>Jessica</span> a self-taught & award-winning
-                <span> Web Designer & Developer</span> with over{" "}
+                Hello! I’m <span>Onwell</span> a self-taught & award-winning
+                <span> Web & Graphic Designer</span> with over{" "}
                 <span>fifteen years of work experience</span>. I started in my
                 children’s room and got pro at renowned <span>Ren Tech</span>{" "}
                 Agencies.
