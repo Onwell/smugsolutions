@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import AOS from "aos";
-import BiogiLogo from "../assets/images/logo.svg";
+import BiogiLogo from "../assets/images/logo.png";
 import PhoneSvg from "../assets/images/phone_svg.svg";
 import EmailSvg from "../assets/images/email_svg.svg";
 import LocationSvg from "../assets/images/location_svg.svg";
@@ -23,8 +23,8 @@ const Footer = () => {
               </Link>
             </div>
             <div>
-              <p className="contact_time">09 : 00 AM - 10 : 30 PM</p>
-              <p className="monday">Monday to Saturday</p>
+              <p className="contact_time">09 : 00 AM - 16 : 30 PM</p>
+              <p className="monday">Monday to Friday</p>
             </div>
           </div>
         </div>
@@ -37,8 +37,8 @@ const Footer = () => {
                     <img src={BiogiLogo} alt="logo" />
                   </Link>
                   <p className="work_well">
-                    When do they work well, and when do they on us and finally,
-                    when do we actually need how can we avoid them.
+                  Welcome to Smug Solutions, your trusted partner for innovative web and graphic design services. 
+                  We specialize in crafting creative, functional, and visually stunning designs that bring your ideas to life.
                   </p>
                   <div className="contact-footer">
                     <img src={PhoneSvg} alt="phone_svg" />
@@ -62,10 +62,10 @@ const Footer = () => {
                     <Link to="/services">Services</Link>
                   </div>
                   <div className="contact-footer">
-                    <Link to="/portfolio">Portfolio</Link>
+                    <Link to="/portfolio2">Portfolio</Link>
                   </div>
                   <div className="contact-footer">
-                    <Link to="/blog">Blog</Link>
+                    <Link to="/blog2">Blog</Link>
                   </div>
                 </div>
                 <div className="col-xxl-3 col-xl-4 col-lg-4">
@@ -85,10 +85,10 @@ const Footer = () => {
                 <p className="copyright">
                   © 2024 | All rights reserved by
                   <Link
-                    to="https://1.envato.market/website-portfolio"
+                    to="https://www.facebook.com/smugsolutions/"
                     target="_blank"
                   >
-                    The_Krishna
+                    Smug Solutions
                   </Link>
                 </p>
                 <div className="input-main">
