@@ -140,8 +140,8 @@ const Footer = () => {
                   </Link>
                 </div>
                 <div>
-                  <p className="contact_time">09 : 00 AM - 10 : 30 PM</p>
-                  <p className="monday">Monday to Saturday</p>
+                  <p className="contact_time">09 : 00 AM - 16 : 30 PM</p>
+                  <p className="monday">Monday to Friday</p>
                 </div>
               </div>
             </div>

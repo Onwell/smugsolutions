@@ -135,20 +135,20 @@ const Contact = () => {
                 <div className="get-touch-box-main">
                   <h2>Get In Touch</h2>
                   <p className="well">
-                    When do they work well, and when do they on us and finally,
-                    when do we actually need how can we avoid them.
+                  We’re here to bring your ideas to life! Whether you need expert design services or have questions about your next big project, don’t hesitate to reach out. 
+                  Let’s create something amazing together!
                   </p>
                   <div className="contact-footer contact-footer2">
                     <img src={PhoneSvg} alt="phone_svg" />
-                    <Link to="tel:+1451356888">+1 451 356 888</Link>
+                    <Link to="tel:+263777224660">+263 777 224 660</Link>
                   </div>
                   <div className="contact-footer contact-footer2">
                     <img src={EmailSvg} alt="email_svg" />
-                    <Link to="mailto:biogi@mail.com">biogi@mail.com</Link>
+                    <Link to="mailto:o.masaraure@gmail.com">o.masaraure@gmail.com</Link>
                   </div>
                   <div className="contact-footer contact-footer2">
                     <img src={LocationSvg} alt="location_svg" />
-                    <p>121 Parkview St. California, USA</p>
+                    <p>Harare, Zimbabwe</p>
                   </div>
                 </div>
               </div>
@@ -156,10 +156,7 @@ const Contact = () => {
           </div>
         </section>
         {/* <!-- ====================================== Conatct Section Two End===================================== --> */}
-        {/* <!-- ====================================== text Marquee Section  ===================================== --> */}
-
-        <TextMarqueAboutSection />
-        {/* <!-- ====================================== text Marquee Section End ===================================== --> */}
+        
         {/* <!-- ====================================== Footer ===================================== --> */}
         <Footer />
       </div>
