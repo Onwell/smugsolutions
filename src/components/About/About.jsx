@@ -4,7 +4,6 @@ import Loader from "../../common/Loader";
 import Header from "../../common/Header";
 import SectionOne from "./SectionOne";
 import SectionTwo from "./SectionTwo";
-import SectionThree from "./SectionThree";
 import CounterSection from "./CounterSection";
 import MarqueSection from "../../common/MarqueSection";
 import SectionFour from "./SectionFour";
@@ -38,9 +37,6 @@ const About = () => {
         {/* <!-- ====================================== About Section Counter ===================================== --> */}
         <CounterSection />
         {/* <!-- ====================================== About Section Counter ===================================== --> */}
-        {/* <!-- ====================================== About Section Three Start ===================================== --> */}
-        <SectionThree />
-        {/* <!-- ====================================== About Section Three End ===================================== --> */}
         {/* <!-- ====================================== User Branding Marquee Section ===================================== --> */}
         <MarqueSection />
         {/* <!-- ====================================== User Branding Marquee Section ===================================== --> */}

@@ -11,18 +11,6 @@ const SectionTwo = () => {
       {/* <!-- ====================================== About Section Two ===================================== --> */}
       <section className="about-section-two overflow-hidden">
         <div className="container">
-          <div
-            className="award-circle-main aos-init aos-animate"
-            data-aos="zoom-in"
-          >
-            <div className="award-circle">
-              <img src={TrophyImg} alt="trophy" />
-            </div>
-            <div>
-              <h2 className="independent">Independent Of The Year</h2>
-              <p className="annual">Annual Awards 2025</p>
-            </div>
-          </div>
           <h3 className="self-taught aos-init aos-animate" data-aos="fade-up">
             <span>I'm Biogi</span> - a self though & self learned designer{" "}
             <span>based in USA</span>. I started as a financial planner & social
