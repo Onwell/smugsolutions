@@ -5,12 +5,10 @@ import Header from "../../common/Header";
 import SectionOne from "./SectionOne";
 import SectionTwo from "./SectionTwo";
 import CounterSection from "./CounterSection";
-import MarqueSection from "../../common/MarqueSection";
 import SectionFour from "./SectionFour";
 import TestimonialSlider from "../../common/TestimonialSlider";
 import BrandsMarqueSection from "../../common/BrandsMarqueSection";
 import Footer from "../../common/Footer";
-import TextMarqueAboutSection from "./TextMarqueAboutSection";
 import ProgressCircle from "../../common/ProgressCircle";
 import Cursor from "../../common/Cursor";
 
@@ -37,9 +35,6 @@ const About = () => {
         {/* <!-- ====================================== About Section Counter ===================================== --> */}
         <CounterSection />
         {/* <!-- ====================================== About Section Counter ===================================== --> */}
-        {/* <!-- ====================================== User Branding Marquee Section ===================================== --> */}
-        <MarqueSection />
-        {/* <!-- ====================================== User Branding Marquee Section ===================================== --> */}
         {/* <!-- ====================================== About Section Four ===================================== --> */}
         <SectionFour />
         {/* <!-- ====================================== About Section Four End ===================================== --> */}
@@ -49,9 +44,6 @@ const About = () => {
         {/* <!-- ====================================== Brands Marquee Section Start ===================================== --> */}
         <BrandsMarqueSection />
         {/* <!-- ====================================== Brands Marquee Section End ===================================== --> */}
-        {/* <!-- ====================================== text Marquee Section Start ===================================== --> */}
-        <TextMarqueAboutSection />
-        {/* <!-- ====================================== text Marquee Section End ===================================== --> */}
         {/* <!-- ====================================== Footer ===================================== --> */}
         <Footer />
         {/* <!-- ====================================== Progress Scroll Bottom To Top ===================================== --> */}
