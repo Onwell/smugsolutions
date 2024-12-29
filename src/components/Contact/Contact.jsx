@@ -5,7 +5,6 @@ import Header from "../../common/Header";
 import PhoneSvg from "../../assets/images/phone_svg.svg";
 import EmailSvg from "../../assets/images/email_svg.svg";
 import LocationSvg from "../../assets/images/location_svg.svg";
-import TextMarqueAboutSection from "../About/TextMarqueAboutSection";
 import Footer from "../../common/Footer";
 import Cursor from "../../common/Cursor";
 import { Link } from "react-router-dom";

@@ -12,7 +12,6 @@ import TestimonialClient1 from "../../../assets/images/testimonial_client_img1.j
 import TestimonialClient2 from "../../../assets/images/testimonial_client_img2.jpg";
 import TestimonialClient3 from "../../../assets/images/testimonial_client_img3.jpg";
 import TestimonialClient4 from "../../../assets/images/testimonial_client_img4.jpg";
-import TextMarqueAboutSection from "../../About/TextMarqueAboutSection";
 import Footer from "../../../common/Footer";
 import ProgressCircle from "../../../common/ProgressCircle";
 import Cursor from "../../../common/Cursor";
@@ -508,10 +507,7 @@ const SingleBlogTwo = () => {
           </div>
         </section>
         {/* <!-- ====================================== single blog Section Two End ===================================== --> */}
-        {/* <!-- ====================================== text Marquee Section  ===================================== --> */}
-
-        <TextMarqueAboutSection />
-        {/* <!-- ====================================== text Marquee Section End ===================================== --> */}
+      
         {/* <!-- ====================================== Footer ===================================== --> */}
         <Footer />
         {/* <!-- ====================================== Progress Scroll Bottom To Top ===================================== --> */}

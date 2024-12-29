@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import AOS from "aos";
 import Loader from "../../../common/Loader";
 import Header from "../../../common/Header";
-import TextMarqueAboutSection from "../../About/TextMarqueAboutSection";
 import Footer from "../../../common/Footer";
 import SectionTwo from "../SectionTwo";
 import SingleBlogImg from "../../../assets/images/single-blog-main-img.jpg";
@@ -50,10 +49,7 @@ const SingleBlog = () => {
           </div>
         </section>
         {/* <!-- ====================================== single blog Section Two End ===================================== --> */}
-        {/* <!-- ====================================== text Marquee Section  ===================================== --> */}
-
-        <TextMarqueAboutSection />
-        {/* <!-- ====================================== text Marquee Section End ===================================== --> */}
+        
         {/* <!-- ====================================== Footer ===================================== --> */}
         <Footer />
         {/* <!-- ====================================== Progress Scroll Bottom To Top ===================================== --> */}
