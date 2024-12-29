@@ -16,18 +16,7 @@ const SectionThree = () => {
 
   const accordionData = [
     {
-      title: "Visual Design",
-      content:
-        "Project systematization is something I place a lot of emphasis on. My passion Design Systems.",
-      listItems: [
-        "Interface Design",
-        "Creating Design Systems",
-        "UI Kits",
-        "User Experience Development",
-      ],
-    },
-    {
-      title: "Design Systems",
+      title: "Graphic Design",
       content:
         "Project systematization is something I place a lot of emphasis on. My passion Design Systems.",
       listItems: [
@@ -47,18 +36,7 @@ const SectionThree = () => {
         "UI Kits",
         "User Experience Development",
       ],
-    },
-    {
-      title: "Design Systems",
-      content:
-        "Project systematization is something I place a lot of emphasis on. My passion Design Systems.",
-      listItems: [
-        "Interface Design",
-        "Creating Design Systems",
-        "UI Kits",
-        "User Experience Development",
-      ],
-    },
+    }
   ];
 
   return (

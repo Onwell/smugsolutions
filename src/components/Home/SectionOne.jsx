@@ -244,13 +244,13 @@ const SectionOne = () => {
                       src={PolygonArrow}
                       alt="Polygon-arrow"
                     />
-                    <p className="jessica-biogi">Jessica Biogi</p>
+                    <p className="jessica-biogi">Onwell Masaraure</p>
                   </div>
                 </div>
                 <img
                   className="home-girl-img"
                   src={GirlImg}
-                  alt="girl"
+                  alt="Onwell"
                   data-aos="fade-up"
                 />
                 <img
@@ -260,36 +260,6 @@ const SectionOne = () => {
                   alt="arrow-main"
                   ref={arrowRef}
                 />
-                <div id="worked_box" ref={workedBoxRef}>
-                  <div className="worked-box" data-aos="fade-right">
-                    <p className="worked-more">
-                      Worked with more than 100 people
-                    </p>
-                    <div className="client-img-main position-relative">
-                      <img
-                        className="client-img client-img1"
-                        src={ClientImg1}
-                        alt="clients-img1"
-                      />
-                      <img
-                        className="client-img client-img2"
-                        src={ClientImg2}
-                        alt="clients-img2"
-                      />
-                      <img
-                        className="client-img client-img3"
-                        src={ClientImg3}
-                        alt="clients-img3"
-                      />
-                      <img
-                        className="client-img client-img4"
-                        src={ClientImg4}
-                        alt="clients-img4"
-                      />
-                      <p className="worked-more worked-more2">100+ Clients</p>
-                    </div>
-                  </div>
-                </div>
               </div>
             </div>
           </div>

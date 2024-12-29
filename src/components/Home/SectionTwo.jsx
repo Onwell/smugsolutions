@@ -22,12 +22,12 @@ const SectionTwo = () => {
               <img
                 className="girl-img2"
                 src={GirlImg2}
-                alt="girl-img2"
+                alt="Onwell"
                 data-aos="fade-left"
               />
               <div className="hwlo">
                 <img className="years-img" src={YearsImg} alt="years-img" />
-                <div className="digit">6</div>
+                <div className="digit">4</div>
                 <div className="circle-text">
                   YEARS OF
                   <br /> WORKING EXPERICE
@@ -35,15 +35,6 @@ const SectionTwo = () => {
               </div>
             </div>
             <div className="col-xxl-6 col-xl-6 col-lg-6">
-              <div className="award-circle-main" data-aos="zoom-in">
-                <div className="award-circle">
-                  <img src={TrophyImg} alt="trophy" />
-                </div>
-                <div className="">
-                  <h3 className="independent">Independent Of The Year</h3>
-                  <p className="annual">Annual Awards 2025</p>
-                </div>
-              </div>
               <h3 className="self-taught" data-aos="fade-up">
                 Hello! I’m <span>Onwell</span> a self-taught & award-winning
                 <span> Web & Graphic Designer</span> with over{" "}
@@ -56,8 +47,8 @@ const SectionTwo = () => {
                 dictum turpis diam arcu rutrum interdum aliquet iaculis.
               </p>
               <p className="explore-me" data-aos="fade-right">
-                <Link to="about.html#explore-me">
-                  EXPLORE ME
+                <Link to="/contact">
+                  CONTACT ME
                   <svg
                     className="expo-arrow"
                     xmlns="http://www.w3.org/2000/svg"
