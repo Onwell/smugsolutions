@@ -59,7 +59,7 @@ const SectionOne = () => {
           <div className="media-main">
             <img src={MediaLineTop} alt="media-line-top" />
             <div>
-              <Link to="mailto:biogi@mail.com">
+              <Link to="mailto:o.masaraure@gmail.com">
                 <svg
                   className="icon"
                   xmlns="http://www.w3.org/2000/svg"
@@ -93,103 +93,7 @@ const SectionOne = () => {
               </Link>
             </div>
             <div>
-              <Link to="https://dribbble.com">
-                <svg
-                  className="icon"
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
-                  viewBox="0 0 20 20"
-                  fill="none"
-                >
-                  <g clipPath="url(#clip0_37_124)">
-                    <path
-                      d="M2.5 10C2.5 10.9849 2.69399 11.9602 3.0709 12.8701C3.44781 13.7801 4.00026 14.6069 4.6967 15.3033C5.39314 15.9997 6.21993 16.5522 7.12987 16.9291C8.03982 17.306 9.01509 17.5 10 17.5C10.9849 17.5 11.9602 17.306 12.8701 16.9291C13.7801 16.5522 14.6069 15.9997 15.3033 15.3033C15.9997 14.6069 16.5522 13.7801 16.9291 12.8701C17.306 11.9602 17.5 10.9849 17.5 10C17.5 9.01509 17.306 8.03982 16.9291 7.12987C16.5522 6.21993 15.9997 5.39314 15.3033 4.6967C14.6069 4.00026 13.7801 3.44781 12.8701 3.0709C11.9602 2.69399 10.9849 2.5 10 2.5C9.01509 2.5 8.03982 2.69399 7.12987 3.0709C6.21993 3.44781 5.39314 4.00026 4.6967 4.6967C4.00026 5.39314 3.44781 6.21993 3.0709 7.12987C2.69399 8.03982 2.5 9.01509 2.5 10Z"
-                      stroke="white"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                    <path
-                      d="M7.5 3C11.6667 8 13.3333 11.75 13.75 16.5"
-                      stroke="white"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                    <path
-                      d="M5.33334 15.8333C8.25001 12.9167 10.3333 10.4167 17.4167 10.5"
-                      stroke="white"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                    <path
-                      d="M2.58334 8.95833C6.75001 8.95833 10.7617 8.64166 15.345 4.79166"
-                      stroke="white"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                  </g>
-                  <defs>
-                    <clipPath id="clip0_37_124">
-                      <rect width="20" height="20" fill="white" />
-                    </clipPath>
-                  </defs>
-                </svg>
-              </Link>
-            </div>
-            <div>
-              <Link to="https://www.behance.net">
-                <svg
-                  className="icon"
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="20"
-                  height="20"
-                  viewBox="0 0 20 20"
-                  fill="none"
-                >
-                  <g clipPath="url(#clip0_37_130)">
-                    <path
-                      d="M2.5 15V5H6.25C6.91304 5 7.54893 5.26339 8.01777 5.73223C8.48661 6.20107 8.75 6.83696 8.75 7.5C8.75 8.16304 8.48661 8.79893 8.01777 9.26777C7.54893 9.73661 6.91304 10 6.25 10C6.91304 10 7.54893 10.2634 8.01777 10.7322C8.48661 11.2011 8.75 11.837 8.75 12.5C8.75 13.163 8.48661 13.7989 8.01777 14.2678C7.54893 14.7366 6.91304 15 6.25 15H2.5Z"
-                      stroke="white"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                    <path
-                      d="M2.5 10H6.25"
-                      stroke="white"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                    <path
-                      d="M11.6667 10.8333H17.5C17.5 10.0598 17.1927 9.31792 16.6457 8.77094C16.0987 8.22396 15.3569 7.91667 14.5833 7.91667C13.8098 7.91667 13.0679 8.22396 12.5209 8.77094C11.9739 9.31792 11.6667 10.0598 11.6667 10.8333ZM11.6667 10.8333V12.5C11.7526 13.1239 12.0382 13.7032 12.4807 14.1513C12.9232 14.5994 13.4989 14.8923 14.1217 14.9861C14.7444 15.0798 15.3808 14.9695 15.9357 14.6716C16.4906 14.3737 16.9341 13.9042 17.2 13.3333"
-                      stroke="white"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                    <path
-                      d="M13.3333 5H15.8333"
-                      stroke="white"
-                      strokeWidth="1.5"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                  </g>
-                  <defs>
-                    <clipPath id="clip0_37_130">
-                      <rect width="20" height="20" fill="white" />
-                    </clipPath>
-                  </defs>
-                </svg>
-              </Link>
-            </div>
-            <div>
-              <Link to="https://www.youtube.com">
+              <Link to="#">
                 <svg
                   className="icon"
                   xmlns="http://www.w3.org/2000/svg"
@@ -268,13 +172,13 @@ const SectionOne = () => {
               className="section-main-right-contain-sub"
               data-aos="fade-left"
             >
-              <h2 className="total-project">700+</h2>
+              <h2 className="total-project">10+</h2>
               <p className="project-complted">PROJECT COMPLETED</p>
             </div>
             <div className="flower-box" data-aos="fade-left">
               <img className="flower" src={FlowerImg} alt="flower" />
               <h2 className="Freelance">
-                A <span>Freelance Designer and Developer based in USA.</span> I
+                A <span>Freelance Designer and Developer based in Zimbabwe.</span> I
                 strives to build immersive and beautiful web applications
                 through carefully crafted used-centric design.
               </h2>

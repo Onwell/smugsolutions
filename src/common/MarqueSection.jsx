@@ -18,13 +18,13 @@ const MarqueSection = () => {
               User Experience
             </div>
             <div className="ticker__item">Branding</div>
-            <div className="ticker__item ticker__item_dark">Marketing</div>
+            <div className="ticker__item ticker__item_dark">Website Development</div>
             <div className="ticker__item">User Interface</div>
             <div className="ticker__item ticker__item_dark">
               User Experience
             </div>
             <div className="ticker__item">Branding</div>
-            <div className="ticker__item ticker__item_dark">Marketing</div>
+            <div className="ticker__item ticker__item_dark">Website Development</div>
             <div className="ticker__item">User Interface</div>
             <div className="ticker__item ticker__item_dark">
               User Experience

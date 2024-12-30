@@ -4,8 +4,6 @@ import SectionOne from "./SectionOne";
 import Loader from "../../common/Loader";
 import SectionTwo from "./SectionTwo";
 import SectionThree from "./SectionThree";
-import SectionFour from "./SectionFour";
-import SectionSeven from "./SectionSeven";
 import Footer from "../../common/Footer";
 import Header from "../../common/Header";
 import TestimonialSlider from "../../common/TestimonialSlider";
@@ -42,9 +40,6 @@ const Home = () => {
         {/* <!-- ====================================== Section Six ===================================== --> */}
         <TestimonialSlider />
         {/* <!-- ====================================== Section Six ===================================== --> */}
-        {/* <!-- ====================================== Section Seven Blogs ===================================== --> */}
-        <SectionSeven />
-        {/* <!-- ====================================== Section Seven ===================================== --> */}
         {/* <!-- ====================================== Footer ===================================== --> */}
         <Footer />
         {/* <!-- ====================================== Progress Scroll Bottom To Top ===================================== --> */}

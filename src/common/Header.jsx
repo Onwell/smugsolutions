@@ -58,11 +58,6 @@ const Header = () => {
                   </NavLink>
                 </li>
                 <li>
-                  <NavLink to="/blog2" activeClassName="active">
-                    Blog
-                  </NavLink>
-                </li>
-                <li>
                   <NavLink to="/contact" activeClassName="active">
                     Contact
                   </NavLink>
@@ -99,12 +94,6 @@ const Header = () => {
                             </div>
                             <div className="heading2">
                               <Link to="/services">Services</Link>
-                            </div>
-                            <div className="heading2">
-                              <Link to="/portfolio2">Portfolio</Link>
-                            </div>
-                            <div className="heading2">
-                              <Link to="/blog2">Blog</Link>
                             </div>
                             <div className="heading2">
                               <Link to="/contact">Contact</Link>

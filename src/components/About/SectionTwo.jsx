@@ -12,24 +12,12 @@ const SectionTwo = () => {
       <section className="about-section-two overflow-hidden">
         <div className="container">
           <h3 className="self-taught aos-init aos-animate" data-aos="fade-up">
-            <span>I'm Biogi</span> - a self though & self learned designer{" "}
-            <span>based in USA</span>. I started as a financial planner & social
-            media marketer, but now I do mix of everything from{" "}
-            <span>Product Design, Photography, Web Design </span>&{" "}
-            <span>Graphic Design.</span>
+            <span>I'm Onwell—a self-taught web and graphic designer based in the Zimbabwe.</span>
           </h3>
           <p className="odio aos-init aos-animate" data-aos="fade-up">
-            Award-winning design director and design expert with 6 years of
-            experience in design and management. I am a mom to a beautiful 2
-            y.o. daughter who already loves attending business meetings with me.
-            Also, a big part of my life is Netrix - a design creator behind this
-            blog, artistic aesthetics into her healthy meals and making her
-            recipes into artwork. She has always nurtured an interest in healthy
-            eating and loves creating meals that are good for her body while
-            being creative with simple ingredients. The creator behind this
-            blog, enjoys incorporating her and making her recipes into artwork.
-            She has always nurtured an interest in healthy eating and loves
-            creating meals.
+            With experience in responsive design, UI/UX optimization, and the latest web technologies, 
+            I bring ideas to life through clean code and thoughtful layouts. Their goal is to merge creativity with functionality, 
+            ensuring every project delivers an engaging user experience while meeting business objectives.
           </p>
         </div>
       </section>

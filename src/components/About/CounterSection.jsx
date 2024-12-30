@@ -52,7 +52,7 @@ const CounterSection = () => {
             >
               <h3
                 className="counter-digit count about-count"
-                data-count="700"
+                data-count="10"
                 ref={(el) => (countersRef.current[0] = el)}
               >
                 0
@@ -65,7 +65,7 @@ const CounterSection = () => {
             >
               <h3
                 className="counter-digit count"
-                data-count="14"
+                data-count="1"
                 ref={(el) => (countersRef.current[1] = el)}
               >
                 0
@@ -78,7 +78,7 @@ const CounterSection = () => {
             >
               <h3
                 className="counter-digit count about-count"
-                data-count="06"
+                data-count="03"
                 ref={(el) => (countersRef.current[2] = el)}
               >
                 0
@@ -91,7 +91,7 @@ const CounterSection = () => {
             >
               <h3
                 className="counter-digit count about-count"
-                data-count="550"
+                data-count="10"
                 ref={(el) => (countersRef.current[3] = el)}
               >
                 0

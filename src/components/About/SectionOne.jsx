@@ -75,7 +75,7 @@ const SectionOne = () => {
               className="col-xxl-6 col-xl-6 col-lg-6 about-main-img-sec"
               id="main"
             >
-              <img className="about-flower-img" src={FlowerImg} alt="flower" />
+              <img className="about-flower-img" src={FlowerImg} alt="Onwell Masaraure" />
               <img
                 className="about-img-main"
                 src={AboutImgMain}

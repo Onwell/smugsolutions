@@ -82,10 +82,7 @@ const TestimonialSlider = () => {
                   <h3>Great Work!</h3>
                 </div>
                 <p className="posuere">
-                  Ultrices sed sed ut posuere at. Risus urna augue orci
-                  malesuada etiam diam enim. Parturient habitasse massa feugiat
-                  posuere odio leo vitae feugiat. Scelerisque cras viverra nunc
-                  ipsum et duis dui proin a. Urna rhoncus nullam odio sed vitae.
+                  Smug Solutions transformed our website into a sleek, user-friendly platform. Their attention to detail and creative approach exceeded our expectations. We’ve seen a significant boost in engagement since the redesign!
                 </p>
                 <svg
                   className="slider-line"
@@ -97,14 +94,8 @@ const TestimonialSlider = () => {
                   <path d="M630 1H100L70 31V1H0" stroke="#909090" />
                 </svg>
                 <div className="client_details">
-                  <img
-                    className="testimonial_client_img"
-                    src={TestimonialClient1}
-                    alt="testimonial_client_img1"
-                  />
                   <div>
                     <h3 className="client-name">Olivia Segio</h3>
-                    <p className="studio">Oria Studio</p>
                   </div>
                 </div>
               </div>
@@ -128,10 +119,7 @@ const TestimonialSlider = () => {
                   <h3>Best Creative Agency!</h3>
                 </div>
                 <p className="posuere">
-                  Lectus quis sit diam aenean. Neque sed blandit sed at.
-                  Adipiscing eu aenean viverra nunc. Lacus ornare massa
-                  scelerisque feugiat pretium diam massa purus. Ultrices
-                  elementum mattis magna cras viverra nisl enim.
+                  We partnered with Smug Solutions for a complete brand overhaul, and the results were incredible. Their team brought fresh ideas and innovative designs that truly captured our vision. Highly recommend!
                 </p>
                 <svg
                   className="slider-line"
@@ -143,14 +131,8 @@ const TestimonialSlider = () => {
                   <path d="M630 1H100L70 31V1H0" stroke="#909090" />
                 </svg>
                 <div className="client_details">
-                  <img
-                    className="testimonial_client_img"
-                    src={TestimonialClient2}
-                    alt="testimonial_client_img1"
-                  />
                   <div>
-                    <h3 className="client-name">Alex Regan</h3>
-                    <p className="studio">Square Agency</p>
+                    <h3 className="client-name">Alex</h3>
                   </div>
                 </div>
               </div>
@@ -174,10 +156,7 @@ const TestimonialSlider = () => {
                   <h3>Great Work!</h3>
                 </div>
                 <p className="posuere">
-                  Ultrices sed sed ut posuere at. Risus urna augue orci
-                  malesuada etiam diam enim. Parturient habitasse massa feugiat
-                  posuere odio leo vitae feugiat. Scelerisque cras viverra nunc
-                  ipsum et duis dui proin a. Urna rhoncus nullam odio sed vitae.
+                  Working with Smug Solutions was a seamless experience. From web development to graphic design, their expertise and commitment to quality were evident at every step. A fantastic team to collaborate with!
                 </p>
                 <svg
                   className="slider-line"
@@ -189,14 +168,8 @@ const TestimonialSlider = () => {
                   <path d="M630 1H100L70 31V1H0" stroke="#909090" />
                 </svg>
                 <div className="client_details">
-                  <img
-                    className="testimonial_client_img"
-                    src={TestimonialClient3}
-                    alt="testimonial_client_img3"
-                  />
                   <div>
-                    <h3 className="client-name">Andrew Lewis</h3>
-                    <p className="studio">Oria Studio</p>
+                    <h3 className="client-name">Andrew</h3>
                   </div>
                 </div>
               </div>
@@ -220,10 +193,7 @@ const TestimonialSlider = () => {
                   <h3>Best Creative Agency!</h3>
                 </div>
                 <p className="posuere">
-                  Lectus quis sit diam aenean. Neque sed blandit sed at.
-                  Adipiscing eu aenean viverra nunc. Lacus ornare massa
-                  scelerisque feugiat pretium diam massa purus. Ultrices
-                  elementum mattis magna cras viverra nisl enim.
+                  Smug Solutions helped us create a cohesive brand identity across our website and marketing materials. Their designs are modern, polished, and on point. We couldn’t be happier with the outcome!
                 </p>
                 <svg
                   className="slider-line"
@@ -235,14 +205,8 @@ const TestimonialSlider = () => {
                   <path d="M630 1H100L70 31V1H0" stroke="#909090" />
                 </svg>
                 <div className="client_details">
-                  <img
-                    className="testimonial_client_img"
-                    src={TestimonialClient4}
-                    alt="testimonial_client_img4"
-                  />
                   <div>
-                    <h3 className="client-name">Mark Daly</h3>
-                    <p className="studio">Square Agency</p>
+                    <h3 className="client-name">Mark</h3>
                   </div>
                 </div>
               </div>

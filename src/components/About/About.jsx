@@ -5,7 +5,6 @@ import Header from "../../common/Header";
 import SectionOne from "./SectionOne";
 import SectionTwo from "./SectionTwo";
 import CounterSection from "./CounterSection";
-import SectionFour from "./SectionFour";
 import TestimonialSlider from "../../common/TestimonialSlider";
 import BrandsMarqueSection from "../../common/BrandsMarqueSection";
 import Footer from "../../common/Footer";
@@ -35,9 +34,6 @@ const About = () => {
         {/* <!-- ====================================== About Section Counter ===================================== --> */}
         <CounterSection />
         {/* <!-- ====================================== About Section Counter ===================================== --> */}
-        {/* <!-- ====================================== About Section Four ===================================== --> */}
-        <SectionFour />
-        {/* <!-- ====================================== About Section Four End ===================================== --> */}
         {/* <!-- ====================================== Testimonial Slider ===================================== --> */}
         <TestimonialSlider />
         {/* <!-- ====================================== Testimonial Slider End ===================================== --> */}

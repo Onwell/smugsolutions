@@ -61,12 +61,6 @@ const Footer = () => {
                   <div className="contact-footer">
                     <Link to="/services">Services</Link>
                   </div>
-                  <div className="contact-footer">
-                    <Link to="/portfolio2">Portfolio</Link>
-                  </div>
-                  <div className="contact-footer">
-                    <Link to="/blog2">Blog</Link>
-                  </div>
                 </div>
                 <div className="col-xxl-3 col-xl-4 col-lg-4">
                   <p className="useful-link">USEFUL LINKS</p>
