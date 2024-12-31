@@ -56,22 +56,6 @@ const SectionThree = () => {
                 Urna neque sollicitudin odio tempus eleifend est. Vestibulum
                 dictum turpis diam arcu rutrum interdum aliquet iaculis.
               </p>
-              <div className="services-circle-main">
-                <div
-                  className="view-work-circle btn btn1"
-                  id="circle1"
-                  data-aos="zoom-in-right"
-                >
-                  <Link to="/portfolio" className="a1">
-                    VIEW MY WORK
-                  </Link>
-                </div>
-                <div className="contact-circle" data-aos="zoom-in-left">
-                  <div className="view-work-circle btn btn2">
-                    <Link to="/contact">CONTACT ME</Link>
-                  </div>
-                </div>
-              </div>
             </div>
             <div className="col-xxl-7 col-xl-7 col-lg-7">
               <div id="faq-sec">
