@@ -18,23 +18,23 @@ const SectionThree = () => {
     {
       title: "Graphic Design",
       content:
-        "Project systematization is something I place a lot of emphasis on. My passion Design Systems.",
+        "Here is a list of the things we offer:",
       listItems: [
-        "Interface Design",
-        "Creating Design Systems",
-        "UI Kits",
-        "User Experience Development",
+        "Company Profile Designs",
+        "Business Card Designs",
+        "Flyer Designs",
+        "Logo Designs & more",
       ],
     },
     {
       title: "Web Design & Developement",
       content:
-        "Project systematization is something I place a lot of emphasis on. My passion Design Systems.",
+        "Here is a list of the things we offer:",
       listItems: [
         "Interface Design",
         "Creating Design Systems",
-        "UI Kits",
-        "User Experience Development",
+        "Website Applications",
+        "Website Design & Development",
       ],
     }
   ];
@@ -53,8 +53,7 @@ const SectionThree = () => {
                 Solution We Provide.
               </h2>
               <p className="uran odio" data-aos="fade-up">
-                Urna neque sollicitudin odio tempus eleifend est. Vestibulum
-                dictum turpis diam arcu rutrum interdum aliquet iaculis.
+                At Smug Solutions, we offer a wide range of design and digital services tailored to meet your business needs. From crafting visually stunning websites to creating impactful graphic designs, our goal is to deliver innovative solutions that elevate your brand.
               </p>
             </div>
             <div className="col-xxl-7 col-xl-7 col-lg-7">

@@ -36,15 +36,13 @@ const SectionTwo = () => {
             </div>
             <div className="col-xxl-6 col-xl-6 col-lg-6">
               <h3 className="self-taught" data-aos="fade-up">
-                Hello! I’m <span>Onwell</span> a self-taught & award-winning
-                <span> Web & Graphic Designer</span> with over{" "}
-                <span>fifteen years of work experience</span>. I started in my
-                children’s room and got pro at renowned <span>Ren Tech</span>{" "}
-                Agencies.
+                Hi! I’m Onwell, a self-taught and award-winning Web & Graphic Designer with over 4 years of professional experience. 
               </h3>
               <p className="odio" data-aos="fade-up">
-                Urna neque sollicitudin odio tempus eleifend est. Vestibulum
-                dictum turpis diam arcu rutrum interdum aliquet iaculis.
+                Throughout my career, I’ve had the opportunity to work with diverse industries, creating websites and designs that not only look great but also drive results. From responsive web layouts to engaging brand identities, I specialize in blending creativity with functionality to deliver exceptional user experiences.
+              </p>
+              <p className="odio" data-aos="fade-up">
+                Beyond design, I’m passionate about continuous learning and staying ahead of industry trends. I believe in pushing creative boundaries while maintaining a keen focus on usability and aesthetics. I’m dedicated to creating digital experiences that leave a lasting impression. Let’s bring your vision to life!
               </p>
               <p className="explore-me" data-aos="fade-right">
                 <Link to="/contact">
